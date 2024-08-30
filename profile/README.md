@@ -1,12 +1,7 @@
-## Hi there 👋
+Welcome to ZeroDay Alliance, SNU students passionate about cybersecurity and ethical hacking. Here’s what you can expect:
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-   Learn: Stay updated on zero-day vulnerabilities and the latest security trends.
+-   Collaborate: Work with peers on projects and challenges.
+-   Share: Exchange resources, tips, and tools for ethical hacking.
+-   Discuss: Engage in conversations about cybersecurity news, strategies, and innovations.
+-   Network: Connect with future professionals in the field.
