@@ -8,7 +8,7 @@
   <a href="https://chat.whatsapp.com/LrTv8BNCAkcC7qki4mfFBS">
     <img src="https://img.shields.io/badge/-Community-white?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=FFFFFF">
   </a>
-  <a href="https://www.instagram.com/zerodayalliance/">
+  <a href="https://www.instagram.com/zerodayalliancesnu/">
     <img src="https://img.shields.io/badge/-Follow%20Us-white?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=FFFFFF">
   </a>
   <a href="https://www.linkedin.com/company/zeroday-alliance-snu">
